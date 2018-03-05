@@ -7,7 +7,4 @@ https://s3.amazonaws.com/ava-dataset/trainval/[file_name]
 ```
 You can download the list of file names from [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_file_names_trainval.txt).
 # Download Annotations
-The trainval annotations can be downloaded from:
-```
-https://s3.amazonaws.com/ava-dataset/annotations/ava_trainval.zip
-```
+The trainval annotations can be downloaded [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_trainval.zip).
