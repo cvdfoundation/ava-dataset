@@ -5,6 +5,6 @@ CVDF hosts 242 videos for training and 66 videos for validation in the AVA datas
 ```
 https://s3.amazonaws.com/ava-dataset/trainval/[file_name]
 ```
-You can download the list of file names from [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_file_names_trainval.txt).
+You can download the list of file names [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_file_names_trainval.txt).
 # Download Annotations
 The trainval annotations can be downloaded [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_trainval.zip).
