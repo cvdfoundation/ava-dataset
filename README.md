@@ -22,7 +22,7 @@ https://s3.amazonaws.com/ava-dataset/trainval/[file_name]
 You can download the list of file names [here](https://s3.amazonaws.com/ava-dataset/annotations/ava_speech_file_names_v1.txt).
 
 ## Download Annotations
-The public annotations for AVA ActiveSpeaker can be downloaded here [ava_activespeaker_train_v1.0.tar.bz2](https://s3.amazonaws.com/ava-dataset/annotations/ava_activespeaker_train_v1.0.tar.bz2) and [ava_activespeaker_test_v1.0.tar.bz2](https://s3.amazonaws.com/ava-dataset/annotations/ava_activespeaker_test_v1.0.tar.bz2).
+The public annotations for AVA ActiveSpeaker can be downloaded here [ava_activespeaker_train_v1.0.tar.bz2](https://s3.amazonaws.com/ava-dataset/annotations/ava_activespeaker_train_v1.0.tar.bz2) and [ava_activespeaker_val_v1.0.tar.bz2](https://s3.amazonaws.com/ava-dataset/annotations/ava_activespeaker_val_v1.0.tar.bz2).
 
 
 # AVA Speech Dataset
