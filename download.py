@@ -16,7 +16,7 @@ TRAIN_VAL_VIDEOS_LIST = 'https://s3.amazonaws.com/ava-dataset/annotations/ava_fi
 
 def parse_args():
     """
-    Usage: python download_ava.py ./data/ava/videos 
+    Usage: python download.py ./data/ava/videos 
     """
     from argparse import ArgumentParser
     parser = ArgumentParser()
